@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-original.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
