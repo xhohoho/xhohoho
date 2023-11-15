@@ -37,11 +37,11 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain-wordmark.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -49,9 +49,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> -->
 </div>
 
 ###
