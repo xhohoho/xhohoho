@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Safie from Malaysia<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Muhammad Safie from Malaysia<br><br>- 🔭 I’m working as A. Engineer at JVCKenwood Electronic Malaysia<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
