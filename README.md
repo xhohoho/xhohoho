@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://my.linkedin.com/in/muhammad-safie-a019a220a?trk=people-guest_people_search-card"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
   <a href="https://github.com/xhohoho/"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" height="25" alt="linkedin logo"  /> </a>
+  <a href="mailto:muhd.safie1996@gmail.com"> <img src="https://img.shields.io/static/v1?message=Email&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  /> </a>
 </div>
 
 ###
