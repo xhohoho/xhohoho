@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Safie from Malaysia<br><br>1. 🔭 I’m working as A. Engineer at JVCKenwood Electronic Malaysia<br>2. 📚 Currently learning Visual Basic<br>3. ⚡ In my free time I do no.2</p>
+<p align="left">I'm Muhammad Safie from Malaysia<br><br>1. 🔭 Ex A. Engineer at JVCKenwood Electronic Malaysia<br>2. 🔭 Currently working as Researcher at Rubber Research Institute of Malaysia(RRIM) under Malaysian Rubber Board<br>3. 📚 Currently learning Visual Basic<br>4. ⚡ In my free time I do no.3</p>
 
 ###
 
